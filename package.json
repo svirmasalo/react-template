@@ -1,7 +1,18 @@
 {
   "name": "reactjs-template",
+  "email":"info@svirmasalo.fi",
+  "url":"http://svirmasalo.fi",
   "version": "0.5.0",
-  "description": "Template for building React apps",
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/svirmasalo/react-template/"
+  },
+  "description": "Template for building React apps.",
+  "keywords":["React", "HTML5", "Babel","ES6"],
+  "bugs": {
+    "url" : "https://github.com/owner/project/issues",
+    "email" : "info@svirmasalo.fi"
+  },
   "main": "index.html",
   "author": "Sampo Virmasalo",
   "license": "ISC",
