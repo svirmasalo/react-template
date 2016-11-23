@@ -12,3 +12,9 @@ Use this template to easily start working with React and ES6 standards.
 - Run command gulp watch
 
 Voilá! 
+
+### Notes
+- This template uses Gulp to run some automated actions. Please check the gulpfile.js to see what it does.
+- After gulp watch -command, you should modify only files from root directory and it's children EXCEPT for the dist folder. Gulp automatically updates it with minified CSS and ES6 translated to ES5.
+
+#### Happy coding!
