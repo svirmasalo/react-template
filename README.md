@@ -11,7 +11,12 @@ Use this template to easily start working with React and ES6 standards.
 - Type npm install
 - Run command gulp watch
 
-Voilá! 
+Voilá!
+
+### Assets included via CDN
+- jQuery (latest & minified)
+- React (latest & minified)
+- ReactDom (latest  & minified)
 
 ### Notes
 - This template uses Gulp to run some automated actions. Please check the gulpfile.js to see what it does.
