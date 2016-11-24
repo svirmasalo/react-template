@@ -1,6 +1,10 @@
 # React-template
 Use this template to easily start working with React and ES6 standards. 
 
+## Requirements
+- node.js
+- npm
+
 ## Usage
 ###### Via Git or similar:
 - Navigate to folder/path you wish to start working from
